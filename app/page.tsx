@@ -2,8 +2,8 @@
 
 import { useState, useEffect } from "react";
 
-const line1 = "Төрсөн өдрийн";
-const line2 = "мэнд хүргэе";
+const line1 = "Happy";
+const line2 = "Birthday";
 const totalLen = line1.length + line2.length;
 
 const heartMessage =
