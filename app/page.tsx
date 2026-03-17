@@ -7,7 +7,7 @@ const line2 = "Birthday";
 const totalLen = line1.length + line2.length;
 
 const heartMessage =
-  'Төрсөн өдрийн мэнд хүргэе, Номио 🎂\n\nЧамд хэлэхийг хүссэн маш олон зүйл надад байсан ч нүүр тулж уулзахдаа юу ч хэлж чадалгүй, юу ярихаа ч мэдэхгүй байсаар өнгөрсөн. Хүн болгонд хайр ямар байдгийг мэдрүүлдэг нэг хүн байдаг гэдэг — миний хувьд тэр хүн нь чи юм.\n\nМагадгүй чиний хувьд би тийм хүн биш байж болох. Би чамд заримдаа муухай хандсан юм шиг санагдаж байна, үнэхээр уучлаарай. Чи надад үргэлж санаа тавьж, "яаж байна" гэж асууж, зүгээр л их халамж, их хайр өгдөг байсан гэдгийг би одоо илүү ойлгож байна.\n\nХарин би чамд тийм их зүйл өгч чадаагүй юм байна. Гэхдээ энэ нь гэмшиж байна гэдэг утгаараа биш — харин хайр гэж юу байдгийг мэдрүүлсэнд чинь баярлаж байна. Би нэг удаа чамайг алдсан… тэр бол миний алдаа. Тэр үед чамд хайртай байсан хэрнээ яагаад үүнийг хэлж чадалгүй явснаа одоо хүртэл ойлгодоггүй.\n\nҮнэнээ хэлэхэд, чамайг дахиж алдмааргүй байна. Чамайг хайрлаж, хамгаалж, хамтдаа хэцүү зүйлсийг даван туулж, чамайг аль болох тайван, аз жаргалтай байлгаж, инээмсэглэж байгааг чинь харахыг хүсэж байна. Бас өөрийнхөө хамгийн сайн хувилбар руу хүрэхийг хичээгээд, зүгээр л чамтай хамт байхыг хүсэж байна. Чиний дуртай зүйлсийг ойлгож, өдөр чинь хэр өнгөрснийг сонсоод хамтдаа инээмсэглэж суухыг хүсэж байна.\n\nГэхдээ нөгөө талаас, зөвхөн өөрийгөө бодож байгаа мэт мэдрэмж төрүүлэхийг хүсэхгүй байна. Хэрвээ чамд надад байсан тэр сэтгэл байхгүй болсон бол би ингэж байх нь чамд хэцүү байх. Үнэхээр хайртай хүн гэдэг нь заримдаа түүнийг тавьж явуулахыг хэлдэг гэдэг шүү дээ. Тийм болохоор аль нь зөв, аль нь буруу гэдгийг би мэдэхгүй байна — хайрныхаа төлөө тэмцэх үү, эсвэл чиний аз жаргалтай байх орон зайг хүндлээд явуулах уу…\n\nЧи ямар ч шийдвэр гаргасан би хүлээж авна. Хэрвээ нэг өдөр надад дахин боломж олговол би хүлээж чадна. Магадгүй энэ амархан, хурдан зүйл биш байх, гэхдээ би хичээх болно. Хэрвээ үгүй бол би бас ойлгоно.\n\nХавар болж байна, битгий ядарч байгаарай. Дархлаагаа дэмжээд, эрт унтаж, хоол ундаа сайн идээрэй. Enjoy ur twenties ❤️';
+  "Сайнуу Номио, төрсөн өдрийн мэнд хүргэе 🎂\n\nБи дотроо бодож байгаа бүх зүйлсээ чамд хэлэх гэж дээр уулзаж байхдаа юу ч хэлж чадахгүй, яг ч юм юу ярихаа ч мэдэхгүй байсаам байна. Хүн болгонд хайр ямар байдгийг мэдрүүлж өгсөн хүн гэж байдаг байх — миний хувьд тэр хүн бол чи. Чиний хувьд би биш байхад би чамд муухай хандаж байсан юм шиг санагдлаа нөгөө, үнэхээр уучлаарай. Чи надад санаа тавиж нөгөө яаж байна болж даандаа асууж зүгээр л би маш их хайр чамаас авж байснаа ойлгосон юмдаа. Би чамд харин тийм ч их зүйл өгөөгүй юм байна лэ, гэхдээ энэ нь гэмшлийн мэдрэмжээр биш шүү — надад хайр гэж юу байдгийг мэдрүүлсэнд баярлаа. Би нэг удаа чамайг алдсан шүүдээ, энэ миний алдаанаас л болсон — би тэр үед чамд хайртай байсан хэрнээ яагаад энэ бүх үгнүүдийг хэлж чадахгүй байснаа одоо хүртэл гайхаж байна.\n\nБи үнийг хэлхэд чамайг дахиж алдмааргүй байна лдаа — чамайг хайрлаж, хамгаалж, хамтдаа хэцүү зүйлсийг даван гарч, чамайг юунд ч санаа зовинуулахгүй тайван байлгаж, аз жаргалтай торхийг чинь харамаар байна, бас өөрийн байж болох хамгийн best хувилбараа очихийг хичээж, зүгээр л чамтай хамт баймаар байна. Чиний дуртай зүйлсийг ойлгож, тэр өдөр юу болсон талаар чинь сонсоод инээлдээд байж байхаар байна лдаа.\n\nГэхдээ нөгөө талаасаа зөвхөн би өөрийгөө бодож байгаа мэт муухай мэдрэмж төрүүлмээргүй байна. Нэгэнт нөгөө гэх сэтгэл байхгүй болчихсон байхад би ингэж байх нь чамд муухай байгаа байх. Үнэхээр хайртай хүн бол түүнийг тавьж явуулах гэдэг шүүдээ — би аль сонголт нь зөв, аль нь буруу гэдгийг юу ч мэдэхгүй байна лдаа. Хайрийхаа төлөө тэмцэх үү, эсвэл тэр хүнийхээ аз жаргалтай байх орон зайг нь хүндлээд явуулах уу.\n\nЧи ямар ч шийдвэр гаргасан би хүлээж авна. Чи хэзээ нэгэн цагт надад боломж өгөх хүртэл хүлээх ч юм уу. Энэ тийм ч амархан, хурдан болохгүй байхад гэхдээ л би хичээх болноо. Хэрвээ үгүй бол би бас л ойлгох болноо.\n\nХавар болж байна, битгий ядрааарай, аль болох дархлаагаа дэмжээд, эрт унтаж, хоол ундаа сайн идээрэй. Enjoy ur twenties ❤️";
 
 const quotes = [
   "Чи хөөрхөн юмаа 🌸",
@@ -22,32 +22,8 @@ const quotes = [
   "Чи бол миний гэрэл гэгээ 🌟",
 ];
 
-const topFlowers = ["🌸", "🌺", "💮", "🌷", "🌼", "🌸", "🌺", "💮"];
-const bottomFlowers = ["🌷", "💐", "🌸", "🌺", "🌼", "🌷", "💐", "🌸"];
-const leftFlowers = [
-  "🌸",
-  "🌺",
-  "🌷",
-  "💐",
-  "🌼",
-  "🌸",
-  "🌺",
-  "🌷",
-  "💐",
-  "🌼",
-];
-const rightFlowers = [
-  "💮",
-  "🌼",
-  "🌻",
-  "🌷",
-  "🌸",
-  "💮",
-  "🌼",
-  "🌻",
-  "🌷",
-  "🌸",
-];
+const leftFlowers  = ["🌸", "🌺", "🌷", "💐", "🌼", "🌸", "🌺", "🌷", "💐", "🌼"];
+const rightFlowers = ["💮", "🌼", "🌻", "🌷", "🌸", "💮", "🌼", "🌻", "🌷", "🌸"];
 
 interface ConfettiPiece {
   id: number;
@@ -66,13 +42,11 @@ interface FloatingQuote {
 
 function LetterRow({
   text,
-  globalOffset,
   showCursor,
   onTap,
   done,
 }: {
   text: string;
-  globalOffset: number;
   showCursor: boolean;
   onTap?: () => void;
   done: boolean;
@@ -85,13 +59,7 @@ function LetterRow({
     >
       {text.split("").map((char: string, i: number) => (
         <span key={i} className="char-wrap">
-          <span className="petal-top">
-            {topFlowers[(globalOffset + i) % topFlowers.length]}
-          </span>
           <span className="char">{char === " " ? "\u00A0" : char}</span>
-          <span className="petal-bot">
-            {bottomFlowers[(globalOffset + i) % bottomFlowers.length]}
-          </span>
         </span>
       ))}
       {showCursor && (
@@ -105,11 +73,9 @@ function LetterRow({
 
 export default function BirthdayPage() {
   const [displayCount, setDisplayCount] = useState(0);
-  const [displayedHeart, setDisplayedHeart] = useState("");
   const [mainDone, setMainDone] = useState(false);
   const [confetti, setConfetti] = useState<ConfettiPiece[]>([]);
   const [floatingQuotes, setFloatingQuotes] = useState<FloatingQuote[]>([]);
-  const heartDone = displayedHeart.length >= heartMessage.length;
 
   // Confetti init
   useEffect(() => {
@@ -135,22 +101,6 @@ export default function BirthdayPage() {
     return () => clearTimeout(t);
   }, [displayCount]);
 
-  // Type heart message after main text
-  useEffect(() => {
-    if (!mainDone) return;
-    let i = 0;
-    const outer = setTimeout(() => {
-      const inner = setInterval(() => {
-        if (i < heartMessage.length) {
-          setDisplayedHeart(heartMessage.slice(0, i + 1));
-          i++;
-        } else clearInterval(inner);
-      }, 60);
-      return () => clearInterval(inner);
-    }, 700);
-    return () => clearTimeout(outer);
-  }, [mainDone]);
-
   // Tap → 1 floating quote
   const handleTitleTap = () => {
     const q: FloatingQuote = {
@@ -166,7 +116,6 @@ export default function BirthdayPage() {
     );
   };
 
-  // How many chars of each line to show
   const shown1 = Math.min(displayCount, line1.length);
   const shown2 = Math.max(0, displayCount - line1.length);
   const line1Text = line1.slice(0, shown1);
@@ -175,10 +124,7 @@ export default function BirthdayPage() {
   const line1Typing = displayCount <= line1.length && !mainDone;
   const line2Typing = displayCount > line1.length && !mainDone;
 
-  // Progressive side flowers: reveal one per ~2 chars typed
-  const flowersToShow = Math.ceil(
-    (displayCount / totalLen) * leftFlowers.length,
-  );
+  const flowersToShow = Math.ceil((displayCount / totalLen) * leftFlowers.length);
 
   return (
     <div className="birthday-wrap">
@@ -210,7 +156,7 @@ export default function BirthdayPage() {
         ))}
       </div>
 
-      {/* Left flowers — appear one by one as typing progresses */}
+      {/* Left flowers */}
       <div aria-hidden className="side-flowers side-left">
         {leftFlowers.map((f, i) => {
           const visible = i < flowersToShow;
@@ -222,8 +168,7 @@ export default function BirthdayPage() {
                 animationDelay: `${i * 0.28}s`,
                 opacity: visible ? 1 : 0,
                 transform: visible ? "translateX(0)" : "translateX(-55px)",
-                transition:
-                  "opacity 0.5s ease, transform 0.6s cubic-bezier(.34,1.4,.64,1)",
+                transition: "opacity 0.5s ease, transform 0.6s cubic-bezier(.34,1.4,.64,1)",
               }}
             >
               {f}
@@ -232,7 +177,7 @@ export default function BirthdayPage() {
         })}
       </div>
 
-      {/* Right flowers — appear one by one as typing progresses */}
+      {/* Right flowers */}
       <div aria-hidden className="side-flowers side-right">
         {rightFlowers.map((f, i) => {
           const visible = i < flowersToShow;
@@ -244,8 +189,7 @@ export default function BirthdayPage() {
                 animationDelay: `${i * 0.22}s`,
                 opacity: visible ? 1 : 0,
                 transform: visible ? "translateX(0)" : "translateX(55px)",
-                transition:
-                  "opacity 0.5s ease, transform 0.6s cubic-bezier(.34,1.4,.64,1)",
+                transition: "opacity 0.5s ease, transform 0.6s cubic-bezier(.34,1.4,.64,1)",
               }}
             >
               {f}
@@ -256,37 +200,26 @@ export default function BirthdayPage() {
 
       {/* Main content */}
       <div className="main-content">
-        {/* Line 1 */}
         <LetterRow
           text={line1Text}
-          globalOffset={0}
           showCursor={line1Typing}
           onTap={handleTitleTap}
           done={mainDone}
         />
 
-        {/* Line 2 — only render once typing reaches it */}
         {displayCount > line1.length && (
           <LetterRow
             text={line2Text}
-            globalOffset={line1.length}
             showCursor={line2Typing}
             onTap={handleTitleTap}
             done={mainDone}
           />
         )}
 
-        {/* Heart message */}
+        {/* Heart message — appears instantly when typing done */}
         {mainDone && (
           <div className="heart-card">
-            <p>
-              {displayedHeart}
-              {!heartDone && (
-                <span className="cursor small" aria-hidden>
-                  |
-                </span>
-              )}
-            </p>
+            <p>{heartMessage}</p>
           </div>
         )}
       </div>
@@ -340,21 +273,10 @@ export default function BirthdayPage() {
           animation: floatUp 2.6s ease-out forwards;
         }
         @keyframes floatUp {
-          0% {
-            transform: translateY(0) scale(0.6);
-            opacity: 0;
-          }
-          12% {
-            transform: translateY(-10px) scale(1.1);
-            opacity: 1;
-          }
-          75% {
-            opacity: 0.9;
-          }
-          100% {
-            transform: translateY(-90px) scale(0.95);
-            opacity: 0;
-          }
+          0%   { transform: translateY(0)     scale(0.6);  opacity: 0; }
+          12%  { transform: translateY(-10px) scale(1.1);  opacity: 1; }
+          75%  { opacity: 0.9; }
+          100% { transform: translateY(-90px) scale(0.95); opacity: 0; }
         }
 
         /* ── Confetti ── */
@@ -371,17 +293,9 @@ export default function BirthdayPage() {
           animation: confettiFall linear infinite;
         }
         @keyframes confettiFall {
-          0% {
-            transform: translateY(0) rotate(0deg) scale(0.7);
-            opacity: 1;
-          }
-          80% {
-            opacity: 0.6;
-          }
-          100% {
-            transform: translateY(110vh) rotate(480deg) scale(1.3);
-            opacity: 0;
-          }
+          0%   { transform: translateY(0)     rotate(0deg)   scale(0.7); opacity: 1; }
+          80%  { opacity: 0.6; }
+          100% { transform: translateY(110vh) rotate(480deg) scale(1.3); opacity: 0; }
         }
 
         /* ── Side flowers ── */
@@ -393,30 +307,17 @@ export default function BirthdayPage() {
           gap: 12px;
           z-index: 2;
           pointer-events: none;
-          transition:
-            opacity 0.7s ease,
-            transform 0.8s cubic-bezier(0.34, 1.4, 0.64, 1);
         }
-        .side-left {
-          left: 4px;
-          transform: translateY(-50%);
-        }
-        .side-right {
-          right: 4px;
-          transform: translateY(-50%);
-        }
+        .side-left  { left: 4px;  transform: translateY(-50%); }
+        .side-right { right: 4px; transform: translateY(-50%); }
         .side-flower {
           font-size: 22px;
           display: block;
           animation: sideWave 2.4s ease-in-out infinite alternate;
         }
         @keyframes sideWave {
-          from {
-            transform: scale(0.85) rotate(-9deg);
-          }
-          to {
-            transform: scale(1.32) rotate(9deg);
-          }
+          from { transform: scale(0.85) rotate(-9deg); }
+          to   { transform: scale(1.32) rotate(9deg);  }
         }
 
         /* ── Main content ── */
@@ -436,40 +337,19 @@ export default function BirthdayPage() {
           display: flex;
           flex-wrap: wrap;
           justify-content: center;
-          align-items: flex-end;
-          gap: 1px;
+          align-items: center;
+          gap: 2px;
           user-select: none;
           -webkit-tap-highlight-color: transparent;
         }
         .char-wrap {
           display: inline-flex;
-          flex-direction: column;
           align-items: center;
           animation: popIn 0.28s cubic-bezier(0.34, 1.56, 0.64, 1) forwards;
         }
         @keyframes popIn {
-          from {
-            transform: translateY(-14px) scale(0.3);
-            opacity: 0;
-          }
-          to {
-            transform: translateY(0) scale(1);
-            opacity: 1;
-          }
-        }
-        .petal-top,
-        .petal-bot {
-          font-size: 19px;
-          line-height: 1;
-          animation: petalBob 1.8s ease-in-out infinite alternate;
-        }
-        @keyframes petalBob {
-          from {
-            transform: scale(0.88) translateY(1px);
-          }
-          to {
-            transform: scale(1.28) translateY(-2px);
-          }
+          from { transform: translateY(-14px) scale(0.3); opacity: 0; }
+          to   { transform: translateY(0)     scale(1);   opacity: 1; }
         }
         .char {
           font-size: 36px;
@@ -488,20 +368,10 @@ export default function BirthdayPage() {
           animation: blink 0.75s step-end infinite;
           font-weight: bold;
           align-self: center;
-          margin-bottom: 19px;
-        }
-        .cursor.small {
-          font-size: 15px;
-          margin-bottom: 0;
         }
         @keyframes blink {
-          0%,
-          100% {
-            opacity: 1;
-          }
-          50% {
-            opacity: 0;
-          }
+          0%, 100% { opacity: 1; }
+          50%       { opacity: 0; }
         }
 
         /* ── Heart card ── */
@@ -520,14 +390,8 @@ export default function BirthdayPage() {
           max-width: 340px;
         }
         @keyframes slideUp {
-          from {
-            transform: translateY(24px);
-            opacity: 0;
-          }
-          to {
-            transform: translateY(0);
-            opacity: 1;
-          }
+          from { transform: translateY(24px); opacity: 0; }
+          to   { transform: translateY(0);    opacity: 1; }
         }
         .heart-card p {
           font-size: 15px;
